@@ -1,0 +1,23 @@
+Generar un algoritmo que permita calcular y mostrar el valor de la planilla de teléfono de un casa. Se debe ingresar el costo por minutos, el número de minutos consumidos en el mes.
+
+1. inicio
+
+//declaracion de variables
+
+2 costo,  d[0, n]
+3 minutos,d[0, n]
+4 ValorPlanilla, d [0, n]
+
+//pido datos por teclado- entadas
+
+5. escriba ""ingrese  el costo por minutos"
+6. leer costo 
+7. escriba "ingrese el numero de minutos consumidos"
+8. leer minutos 
+9. valorPlanilla<-- costo * minutos
+
+//salida 
+
+10. escriba "el  valor de la planilla es igual :"+ valorPlanilla
+
+11. Fin

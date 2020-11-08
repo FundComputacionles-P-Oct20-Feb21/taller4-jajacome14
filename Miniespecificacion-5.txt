@@ -1,0 +1,27 @@
+Generar un solución que permita calcular y mostrar el pago mensual de un préstamo de 1 año de plazo. Se debe ingresar el monto del préstamo y el interés mensual a cobrar. 
+1. Inicio 
+//declaro variables
+ 
+2. Monto , d [0, n]
+3. Interes , d [0, n]
+4  TotalSuma d [0, n]
+   PagoMensual d [0, n]
+
+//pido datos por teclado- entradas
+
+5.Escribir "ingrese el monto del prestamo"
+6.Leer Monto
+7.Escribir " ingrese el interes a cobrar"
+8.Leer Interes 
+
+//proceso 
+
+9.TotalSuma <--  Monto+Interes 
+10.PagoMensual <--TotalSuma/12
+
+//salida 
+
+11.Escribir " el valor mensual a pagar es :"+ PagoMensual 
+
+12. Fin
+

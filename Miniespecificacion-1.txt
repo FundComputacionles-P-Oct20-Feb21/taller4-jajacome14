@@ -1,0 +1,23 @@
+ 1 inicio 
+
+//declaro variables
+
+ 2  base,   d[0, n]
+ 3  altura, d[0, n]
+ 4  area ,  d[0, n]
+//pido datos por teclado 
+
+ 5 Escribir "ingrese  la base  del triangulo "
+ leer  base
+ 6 Escribir "ingrese la  altura  del triangulo"
+ leer altura 
+
+ //proceso 
+
+7  area <-- (base * altura)  / 2
+
+//salida 
+
+8 escribir "la area del triangulo  es :" + area 
+
+9 fin 
